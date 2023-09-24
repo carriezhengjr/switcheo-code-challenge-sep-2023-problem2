@@ -1,0 +1,81 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Style the form container */
+.form-container {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+}
+
+/* Style form elements */
+.form-container label {
+  font-weight: bold;
+}
+
+.form-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+
+/* Style the currency buttons and icon container */
+.currency-button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 24px;
+  margin-bottom: 28px;
+}
+
+.currency-button-container .currency-button {
+  background-color: #62e5e1;
+  color: #2b2525;
+  font: 1em sans-serif;
+  font-weight: bold;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.currency-button-container .currency-button:hover {
+  background-color: #2fd0ca;
+}
+
+/* Style the exchange icon */
+.exchange-icon {
+  color: #2b2525;
+  margin: 5px;
+}
+
+/* Style the submit button */
+.button-container {
+  margin-top: 20px;
+}
+
+.confirm-swap-button {
+  background-color: #11da5b;
+  color: #2b2525;
+  font: 1em sans-serif;
+  font-weight: bold;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.confirm-swap-button:hover {
+  background-color: #0fbb4e;
+}
