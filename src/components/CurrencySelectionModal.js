@@ -27,7 +27,7 @@ function CurrencySelectionModal({ onSelect, field, options, onClose }) {
     return () => {
       window.removeEventListener('click', handleOutsideClick);
     };
-  }, [handleOutsideClick]);
+  });
 
   // Filter options based on the filter text
   const filteredOptions = options.filter((option) =>
