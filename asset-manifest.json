@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/switcheo-code-challenge-sep-2023-problem2/static/css/main.ad2eed50.css",
+    "main.js": "/switcheo-code-challenge-sep-2023-problem2/static/js/main.54695e76.js",
+    "static/js/787.7efd31bd.chunk.js": "/switcheo-code-challenge-sep-2023-problem2/static/js/787.7efd31bd.chunk.js",
+    "index.html": "/switcheo-code-challenge-sep-2023-problem2/index.html",
+    "main.ad2eed50.css.map": "/switcheo-code-challenge-sep-2023-problem2/static/css/main.ad2eed50.css.map",
+    "main.54695e76.js.map": "/switcheo-code-challenge-sep-2023-problem2/static/js/main.54695e76.js.map",
+    "787.7efd31bd.chunk.js.map": "/switcheo-code-challenge-sep-2023-problem2/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad2eed50.css",
+    "static/js/main.54695e76.js"
+  ]
+}
